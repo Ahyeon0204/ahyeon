@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uAE40\uC544\uD604\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit\\c_day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04EAC8-2DDC-42C8-89FA-6D6F78592391}|c_day1.vcxproj|C:\\Users\\\uAE40\uC544\uD604\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit\\c_day1\\assignment1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A04EAC8-2DDC-42C8-89FA-6D6F78592391}|c_day1.vcxproj|solutionrelative:assignment1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "assignment1.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC544\uD604\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit\\c_day1\\assignment1.cpp",
+              "RelativeDocumentMoniker": "assignment1.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC544\uD604\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit\\c_day1\\assignment1.cpp",
+              "RelativeToolTip": "assignment1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-01T02:39:27.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
